@@ -1,6 +1,5 @@
 // src/app/layout.tsx
 'use client'
-import { Roboto } from "next/font/google";
 import { useEffect } from "react";
 import { useGameStore } from "@/store/useGameStore";
 
